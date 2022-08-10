@@ -47,7 +47,7 @@ const defaultMenu = {
 ╟📅 *𝐓𝐚𝐧𝐠𝐠𝐚𝐥:* %date
 ╟🕔 *𝐔𝐩𝐭𝐢𝐦𝐞:* %uptime (%muptime)
 ╟👨‍ *𝐒𝐚𝐫𝐚𝐧𝐠𝐁𝐨𝐭:*
-╟https://github.com/AzzBott679
+╟https://github.com/Levi576
 ╚»★★ミ✧･ﾟ: ✧ﾟ･:
 
 
@@ -59,7 +59,7 @@ const defaultMenu = {
   body: '│ ○ %cmd %islimit %isPremium',
   footer: '▣────────────⬣\n',
   after: `*Recode by*
-*YahyaGanzz* | %version
+*levi* | %version
 ${'```%npmdesc```'}
 `,
 }
@@ -178,14 +178,14 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedButtons: [{
              urlButton: {
                displayText: '✏️ Yt Chanel',
-               url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+               url: 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
              }
 
            },
              {
              callButton: {
                displayText: 'Hp Owner',
-               PhoneNumber: '0815-1148-0872'
+               PhoneNumber: '+62 851-7244-6692'
              }
 
            },
